@@ -41,7 +41,7 @@ word "leather" in their name, a minimum level requirement of 20 and a minimum ra
 of "green".
 
 
-#Changelog:
+###Changelog:
 v0.5.5c NimbixEdit v1:
 
 -changed wording
