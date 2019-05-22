@@ -321,8 +321,8 @@ else
 	ATSW_ITEMSMISSING1 = "You need the following items to produce ";
 	ATSW_ITEMSMISSING2 = ":";
 	ATSW_FILTERLABEL = "Filter:";
-	ATSW_REAGENTLIST1 = "To produce 1x ";
-	ATSW_REAGENTLIST2 = " the following reagents are needed:";
+	ATSW_REAGENTLIST1 = "To make 1x ";
+	ATSW_REAGENTLIST2 = " I'll need these mats:";
 	ATSW_REAGENTFRAMETITLE = "The following reagents are needed to process the queue:";
 	ATSW_REAGENTBUTTON = "Reagents";
 	ATSW_REAGENTFRAME_CH1 = "Inv.";
