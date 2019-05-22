@@ -42,6 +42,9 @@ of "green".
 
 
 #Changelog:
+v0.5.5c NimbixEdit v1:
+
+-changed wording
 
 v0.5.5c:
 
